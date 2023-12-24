@@ -1,3 +1,6 @@
 [submodule "python-p3-parrot-lab"]
 	path = python-p3-parrot-lab
 	url = git@github.com:learn-co-curriculum/python-p3-parrot-lab.git
+[submodule "python-p3-countdown-to-midnight-lab"]
+	path = python-p3-countdown-to-midnight-lab
+	url = git@github.com:learn-co-curriculum/python-p3-countdown-to-midnight-lab.git
