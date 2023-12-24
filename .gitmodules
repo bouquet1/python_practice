@@ -1,0 +1,3 @@
+[submodule "python-p3-parrot-lab"]
+	path = python-p3-parrot-lab
+	url = git@github.com:learn-co-curriculum/python-p3-parrot-lab.git
